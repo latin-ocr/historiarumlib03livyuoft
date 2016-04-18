@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN"
+    "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en">
+ <head>
+  <title>
+</title>
+<meta http-equiv="Content-Type" content="text/html;charset=utf-8" />
+  <meta name='ocr-system' content='tesseract 3.04.00' />
+  <meta name='ocr-capabilities' content='ocr_page ocr_carea ocr_par ocr_line ocrx_word'/>
+</head>
+<body>
+  <div class='ocr_page' id='page_1' title='image "./historiarumlib03livyuoft_0002.png"; bbox 0 0 1491 2750; ppageno 0'>
+   <div class='ocr_carea' id='block_1_1' title="bbox 513 682 995 1188">
+    <p class='ocr_par' dir='ltr' id='par_1_1' title="bbox 513 682 995 1188">
+     <span class='ocr_line' id='line_1_1' title="bbox 513 682 995 1188; baseline 0 1562"><span class='ocrx_word' id='word_1_1' title='bbox 513 682 995 1188; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_2' title="bbox 227 0 1491 2750">
+    <p class='ocr_par' dir='ltr' id='par_1_2' title="bbox 227 0 1491 2750">
+     <span class='ocr_line' id='line_1_2' title="bbox 752 0 1491 1607; baseline 0 -274"><span class='ocrx_word' id='word_1_2' title='bbox 752 0 1491 1607; x_wconf 95' lang='lat' dir='ltr'>    </span> 
+     </span>
+     <span class='ocr_line' id='line_1_3' title="bbox 1118 1607 1491 1739; baseline 0 1011"><span class='ocrx_word' id='word_1_3' title='bbox 1118 1607 1491 1739; x_wconf 95' lang='lat' dir='ltr'> </span> 
+     </span>
+     <span class='ocr_line' id='line_1_4' title="bbox 227 1739 1491 2750; baseline 0 0"><span class='ocrx_word' id='word_1_4' title='bbox 227 1739 1491 2750; x_wconf 95' lang='lat' dir='ltr'>   </span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_3' title="bbox 531 1352 937 1508">
+    <p class='ocr_par' dir='ltr' id='par_1_3' title="bbox 531 1352 937 1508">
+     <span class='ocr_line' id='line_1_5' title="bbox 594 1352 890 1391; baseline -0.003 0"><span class='ocrx_word' id='word_1_5' title='bbox 594 1352 890 1391; x_wconf 63' lang='lat' dir='ltr'>ffitesscntcOto</span> 
+     </span>
+     <span class='ocr_line' id='line_1_6' title="bbox 531 1440 937 1508; baseline 0.007 -14"><span class='ocrx_word' id='word_1_6' title='bbox 531 1440 653 1495; x_wconf 59' lang='lat' dir='ltr'>{Ibe</span> <span class='ocrx_word' id='word_1_7' title='bbox 691 1443 937 1508; x_wconf 63' lang='lat' dir='ltr'>‘libram</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_4' title="bbox 671 1552 799 1589">
+    <p class='ocr_par' dir='ltr' id='par_1_4' title="bbox 671 1552 799 1589">
+     <span class='ocr_line' id='line_1_7' title="bbox 671 1552 799 1589; baseline 0 -2"><span class='ocrx_word' id='word_1_8' title='bbox 671 1552 799 1589; x_wconf 79' lang='lat' dir='ltr'>oftbe</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_5' title="bbox 365 1637 1101 1705">
+    <p class='ocr_par' dir='ltr' id='par_1_5' title="bbox 365 1637 1101 1705">
+     <span class='ocr_line' id='line_1_8' title="bbox 365 1637 1101 1705; baseline 0.01 -15"><span class='ocrx_word' id='word_1_9' title='bbox 365 1637 711 1705; x_wconf 50' lang='lat' dir='ltr'>*tummim</span> <span class='ocrx_word' id='word_1_10' title='bbox 745 1642 807 1695; x_wconf 80' lang='lat' dir='ltr'>of</span> <span class='ocrx_word' id='word_1_11' title='bbox 838 1641 1101 1697; x_wconf 65' lang='lat' dir='ltr'>(toronto</span> 
+     </span>
+    </p>
+   </div>
+   <div class='ocr_carea' id='block_1_6' title="bbox 523 2623 949 2729">
+    <p class='ocr_par' dir='ltr' id='par_1_6' title="bbox 523 2623 949 2729">
+     <span class='ocr_line' id='line_1_9' title="bbox 523 2623 949 2729; baseline 0.014 -24"><span class='ocrx_word' id='word_1_12' title='bbox 523 2623 884 2729; x_wconf 44' lang='lat' dir='ltr'>wanbedmifo</span> <span class='ocrx_word' id='word_1_13' title='bbox 894 2675 949 2711; x_wconf 73' lang='lat' dir='ltr'>en</span> 
+     </span>
+    </p>
+   </div>
+  </div>
+ </body>
+</html>
